@@ -5,10 +5,7 @@
     <uses-permission android:name="android.permission.WRITE_SETTINGS"></uses-permission>
     <uses-permission android:name="android.permission.FLASHLIGHT"></uses-permission>
     <uses-permission android:name="android.permission.CAMERA"></uses-permission>
-    <uses-permission android:name="ANDROID.PERMISSION.HARDWARE_TEST"></uses-permission>
-    <uses-feature android:name="android.hardware.camera"></uses-feature>
-    <uses-feature android:name="android.hardware.camera2.autofocus"></uses-feature>
-    <uses-feature android:name="android.hardware.camero.flash"></uses-feature>
+    <uses-permission android:name="android.permission.WAKE_LOCK"></uses-permission>
 
 
     <application
